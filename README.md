@@ -32,12 +32,7 @@ Welcome to the Tasty Food restaurant website repository! This project is a beaut
 3. **Demo**
 
     Check out the live demo [here](https://shayanakhtar.github.io/TastyFood.github.io/).
-
-4. **Screenshots**
-
-    ![Screenshot 1](#)
-    ![Screenshot 2](#)
-
+   
 ## Contact
 
 For any inquiries or feedback, please reach out to us at [contact@tastyfood.com](mailto:shayantanoli38@gmail.com).
